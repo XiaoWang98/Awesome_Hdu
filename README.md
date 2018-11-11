@@ -23,7 +23,6 @@
 
 #### 操作系统
 
-![实验一]()
 实验一：
 https://graycat0918.github.io/2018/10/02/compile-kernel/
 
