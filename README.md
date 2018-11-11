@@ -23,20 +23,22 @@
 
 #### 操作系统
 
-![实验一](https://graycat0918.github.io/2018/10/02/compile-kernel/)
+![实验一]()
+实验一：
+https://graycat0918.github.io/2018/10/02/compile-kernel/
 
+实验二：
+https://graycat0918.github.io/2018/10/10/kernel-modules-program/
 
-![实验二](https://graycat0918.github.io/2018/10/10/kernel-modules-program/)
-
-
-![实验三](https://graycat0918.github.io/2018/10/31/process-management/)
+实验三:
+https://graycat0918.github.io/2018/10/31/process-management/
 
 #### 计算机网络Wireshark抓包
 
 ![视频课程 ](https://study.163.com/course/introduction.htm?courseId=1004178077#/courseDetail?tab=1)
 
+徐向华实验二--参考答案:https://cekerlee.github.io/2017/10/10/http_wireshark_cn/
 
-![徐向华实验二--参考答案](https://cekerlee.github.io/2017/10/10/http_wireshark_cn/)
 
 
 
