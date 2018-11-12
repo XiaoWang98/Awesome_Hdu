@@ -97,7 +97,7 @@ https://graycat0918.github.io/2018/10/31/process-management/
 
 ![阿里天池2018 Keypoints Detection of Apparel-Challenge the Baseline](https://github.com/Qinxianshen/tianchi_taobao_2018)
 
-![量化比赛](https://github.com/Qinxianshen/Hdu_-Quantification)
+![量化比赛--风禾杯](https://github.com/Qinxianshen/Hdu_-Quantification)
 
 
 
