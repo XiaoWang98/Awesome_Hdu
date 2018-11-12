@@ -64,9 +64,9 @@ https://graycat0918.github.io/2018/10/31/process-management/
 ![计算机图形学大作业](https://github.com/Qinxianshen/Computer-Graphics/blob/master/%E5%9B%BE%E5%BD%A2%E5%AD%A6%E5%91%A8%E4%B8%80%E5%A4%A7%E4%BD%9C%E4%B8%9A%20%E9%A2%98%E7%9B%AE9%20%E7%AC%AC%E4%B8%80%E7%BB%84.tar)
 
 
-#### 计算机可视化
+#### 数据可视化
 
-![计算机图形学大作业](https://github.com/Qinxianshen/hdu_visual_data_)
+![数据可数化作业一](https://github.com/Qinxianshen/hdu_visual_data_)
 
 
 #### 软件体系架构(Java EE)
