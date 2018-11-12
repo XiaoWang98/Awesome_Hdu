@@ -37,7 +37,9 @@ https://graycat0918.github.io/2018/10/31/process-management/
 
 ![视频课程 ](https://study.163.com/course/introduction.htm?courseId=1004178077#/courseDetail?tab=1)
 
-徐向华实验二--参考答案:https://cekerlee.github.io/2017/10/10/http_wireshark_cn/
+徐向华实验二--HTTP参考答案:https://cekerlee.github.io/2017/10/10/http_wireshark_cn/
+
+徐向华实验三--DNS参考答案:https://cekerlee.github.io/2017/10/16/dns_wireshark_cn/
 
 
 
