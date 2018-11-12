@@ -14,6 +14,7 @@
 
 ![3.计算机图形学ppt](https://github.com/Qinxianshen/Computer-Graphics)
 
+![4.数据结构试卷](https://github.com/FengGuanxi/HDU-Experience/tree/master/%E5%AD%A6%E4%B9%A0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E8%AF%95%E5%8D%B7)
 
 
 
