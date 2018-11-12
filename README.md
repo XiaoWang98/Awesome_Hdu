@@ -42,6 +42,10 @@ https://graycat0918.github.io/2018/10/31/process-management/
 徐向华实验三--DNS参考答案:https://cekerlee.github.io/2017/10/16/dns_wireshark_cn/
 
 
+徐向华实验四--DHCP参考答案:https://blog.csdn.net/qq_37298104/article/details/80330295
+
+
+
 
 
 #### 计算机组成原理
