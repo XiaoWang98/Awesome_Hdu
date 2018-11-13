@@ -56,7 +56,7 @@ https://graycat0918.github.io/2018/10/31/process-management/
 
 #### 计算机组成原理
 
-章复嘉老师：![代码]()
+高志刚老师：![代码](https://github.com/Qinxianshen/hdu_-Principles-of-Computer-Organization)
 
 冯建文老师：![实验报告](https://github.com/FengGuanxi/HDU-Experience/tree/master/%E5%AD%A6%E4%B9%A0/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86/%E5%AE%9E%E9%AA%8C)
 
