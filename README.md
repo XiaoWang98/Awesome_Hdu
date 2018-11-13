@@ -50,6 +50,9 @@ https://graycat0918.github.io/2018/10/31/process-management/
 
 徐向华实验四--DHCP参考答案:https://blog.csdn.net/qq_37298104/article/details/80330295
 
+徐向华实验八--ICMP参考答案:https://wenku.baidu.com/view/2a2ffd7a2b160b4e767fcfad.html
+
+徐向华实验九--Ethernet和ARP参考答案:https://wenku.baidu.com/view/3bdc87d918e8b8f67c1cfad6195f312b3169ebdd.html?re=view
 
 
 
